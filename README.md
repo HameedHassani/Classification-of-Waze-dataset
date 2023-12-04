@@ -23,4 +23,4 @@ Engineered features accounted for six of the top 10 features include km_per_hour
 
 Conclusion
 
-The findings provide insights for taxi drivers on the likelihood of receiving significant tips. Further analysis, such as a parametric model, could refine understanding of how different variables affect the tipping amount. Future improvements could include incorporating data on individual riders' previous tipping habits to better support the financial well-being of taxi drivers. The extensive analysis of Waze datasets yields significant results for the Waze business. Although consequential business decisions cannot be made based on these models due to poor recall score, they can be very helpful to guide further exploration. New features could be engineered to try to generate better predictive signal.
+The extensive analysis of Waze datasets yields significant results for the Waze business. Although consequential business decisions cannot be made based on these models due to poor recall score, they can be very helpful to guide further exploration. New features could be engineered to try to generate better predictive signal.
